@@ -181,7 +181,7 @@ class Board extends React.Component {
 		return (
 			<div style={{display: 'flex', flexDirection: 'column',overflowX: "scroll"}}>
 				{this.state.known.map(row => (
-					<div style={{ display: 'flex', alignSelf: 'center'}}>
+					<div style={{ display: 'flex', alignSelf: 'center', margin: 'auto'}}>
 						{row.map(col => (
 							<Block
 								id={sequence}
