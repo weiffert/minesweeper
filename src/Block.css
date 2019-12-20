@@ -1,0 +1,31 @@
+.block {
+    height: 30px;
+    width: 30px;
+    background-color: #999;
+    border-bottom: 3px solid #333;
+    border-right: 3px solid #333;
+    border-left: 3px solid #ccc;
+    border-top: 3px solid #ccc;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.known {
+    border: 3px solid #777;
+}
+
+.known-1 {
+    background-color: red;
+}
+
+.known1>p {
+    color: blue
+}
+.known2>p {
+    color:green; 
+}
+.known3>p {
+    color:red; 
+}

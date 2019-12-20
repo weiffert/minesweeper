@@ -1,5 +1,11 @@
-.App {
+p {
+  margin: 0;
   text-align: center;
+}
+
+p, label, input, button {
+
+  font-family: 'Press Start 2P', cursive;
 }
 
 .App-logo {
