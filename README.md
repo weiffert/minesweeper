@@ -1,5 +1,5 @@
 
-# [Minesweeper](https://noteherder-5bb10.firebaseapp.com/sign-in)
+# [Minesweeper](https://minesweeper-3337a.firebaseapp.com/)
 
 Play minesweeper in a basic online form. This is a review project for my react skills.
 
