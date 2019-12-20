@@ -8,7 +8,7 @@ class App extends React.Component {
 		super(props);
 		this.state = {
 			height: 10,
-			width: 15,
+			width: 10,
 			mineCount: 15,
 			reset: false,
 		};
